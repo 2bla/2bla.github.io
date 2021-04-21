@@ -10,52 +10,69 @@ If you’d like to stay in touch, say hello through any of the social links on [
 𝓜𝓪𝔂 𝓽𝓱𝓮 𝓱𝓸𝓹𝓮 𝓯𝓸𝓻 𝓪 𝓶𝓮𝓮𝓽𝓲𝓷𝓰 𝓯𝓵𝓸𝔀𝓮𝓻 𝓲𝓷 𝓶𝓪𝓷𝔂 𝓶𝓸𝓻𝓮.
 ## Domain List
 Are you interested what domains I run? Here the actual top-zones. Is a specific one attracting your interest?
+
 ### [alter.gp](http://google.com/search?q=site%3Aalter.gp)
 1. [alter.gp](http://alter.gp)
-2. [ea.alter.gp](http://ea.alter.gp)
-3. [eae.alter.gp](http://eae.alter.gp)
-4. [ego.alter.gp](http://ego.alter.gp)
+2. [p.alter.gp](http://p.alter.gp)
+3. [www.alter.gp](http://www.alter.gp)
+
+These domains are derived from the Latin declination:
+1. [ego.alter.gp](http://ego.alter.gp)
+2. [tu.alter.gp](http://tu.alter.gp)
+3. [is.alter.gp](http://is.alter.gp)
+4. [ea.alter.gp](http://ea.alter.gp)
 5. [id.alter.gp](http://id.alter.gp)
-6. [ii.alter.gp](http://ii.alter.gp)
-7. [is.alter.gp](http://is.alter.gp)
-8. [nos.alter.gp](http://nos.alter.gp)
-9. [p.alter.gp](http://p.alter.gp)
-10. [tu.alter.gp](http://tu.alter.gp)
-11. [vos.alter.gp](http://vos.alter.gp)
-12. [www.alter.gp](http://www.alter.gp)
+6. [nos.alter.gp](http://nos.alter.gp)
+7. [vos.alter.gp](http://vos.alter.gp)
+8. [ii.alter.gp](http://ii.alter.gp)
+9. [eae.alter.gp](http://eae.alter.gp)
+
 ### [bhere.co.za](http://google.com/search?q=site%3Abhere.co.za)
 1. [bhere.co.za](http://bhere.co.za)
 2. [ishidi.bhere.co.za](http://ishidi.bhere.co.za)
+
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 1. [deixis.to](http://deixis.to)
 2. [hellyeah.deixis.to](http://hellyeah.deixis.to)
 3. [ict.deixis.to](http://ict.deixis.to)
 4. [taesch.deixis.to](http://taesch.deixis.to)
 5. [www.deixis.to](http://www.deixis.to)
+6. [x.deixis.to](http://x.deixis.to)
+
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
 1. [hooman.to](http://hooman.to)
 2. [candy.hooman.to](http://candy.hooman.to)
 3. [www.hooman.to](http://www.hooman.to)
+
 ### [ishidi.co.za](http://google.com/search?q=site%3Aishidi.co.za)
 1. [ishidi.co.za](http://ishidi.co.za)
 2. [bhere.ishidi.co.za](http://bhere.ishidi.co.za)
+
 ### [lauber.to](http://google.com/search?q=site%3Alauber.to)
 1. [lauber.to](http://lauber.to)
 2. [bernhard.lauber.to](http://bernhard.lauber.to)
 3. [www.lauber.to](http://www.lauber.to)
+
 ### [nomusa.co.za](http://google.com/search?q=site%3Anomusa.co.za)
 1. [nomusa.co.za](http://nomusa.co.za)
+
 ### [particular.to](http://google.com/search?q=site%3Aparticular.to)
-1. [particular.to](http://particular.to)
+1. [in.particular.to](http://in.particular.to)
+
 ### [practize.ch](http://google.com/search?q=site%3Apractize.ch)
 1. [practize.ch](http://practize.ch)
+
 ### [practize.co.za](http://google.com/search?q=site%3Apractize.co.za)
 1. [practize.co.za](http://practize.co.za)
+
 ### [practize.me](http://google.com/search?q=site%3Apractize.me)
 1. [practize.me](http://practize.me)
+
 ### [practize.pro](http://google.com/search?q=site%3Apractize.pro)
 1. [practize.pro](http://practize.pro)
+
 ### [prypto.io](http://google.com/search?q=site%3Aprypto.io)
 1. [prypto.io](http://prypto.io)
+
 ### [skeyi.co.za](http://google.com/search?q=site%3Askeyi.co.za)
 1. [skeyi.co.za](http://skeyi.co.za)
