@@ -50,8 +50,23 @@ These domains are derived from the Latin declination:
 
 ### [lauber.to](http://google.com/search?q=site%3Alauber.to)
 1. [lauber.to](http://lauber.to)
-2. [bernhard.lauber.to](http://bernhard.lauber.to)
-3. [www.lauber.to](http://www.lauber.to)
+2. [www.lauber.to](http://www.lauber.to)
+3. [florian.lauber.to](http://florian.lauber.to)
+4. [patrick.lauber.to](http://patrick.lauber.to)
+
+These domains belong to my blood family:
+1. [stefan.lauber.to](http://stefan.lauber.to)
+2. [patricia.luethi.lauber.to](http://patricia.luethi.lauber.to)
+3. [thomas.lauber.to](http://thomas.lauber.to)
+4. [marcel.lauber.to](http://marcel.lauber.to)
+5. [bernhard.lauber.to](http://bernhard.lauber.to)
+6. [beat.lauber.to](http://beat.lauber.to)
+
+I added some instructions to my domain:
+- [cast.bernhard.lauber.to](http://cast.bernhard.lauber.to)
+- [holiday.bernhard.lauber.to](http://holiday.bernhard.lauber.to)
+- [love.bernhard.lauber.to](http://love.bernhard.lauber.to)
+- [serenade.bernhard.lauber.to](http://serenade.bernhard.lauber.to)
 
 ### [nomusa.co.za](http://google.com/search?q=site%3Anomusa.co.za)
 1. [nomusa.co.za](http://nomusa.co.za)
