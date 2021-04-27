@@ -1,5 +1,5 @@
 ![Image](https://assets.about.me/background/users/t/w/o/twobla_1585333349_767.jpg)
-# 𝓑𝓮𝓻𝓷𝓱𝓪𝓻𝓭 𝓛𝓪𝓊𝒷𝓮𝓻 (唠白仁)
+# 𝓑𝓮𝓻𝓷𝓱𝓪𝓻𝓭 𝓛𝓪𝓊𝒷𝓮𝓻 <br /> (唠白仁)
 ## 𝓯𝓮𝓮𝓵 🍎 𝓽𝓱𝓲𝓷𝓴 🍏 𝓹𝓻𝓪𝓬𝓽𝓲𝓬𝓮 🌱𝓻𝓮𝓯𝓵𝓮𝓬𝓽
 Hello, I'm Bernhard, another geek living in the Swiss Valais. As a fan of Tai Chi, I indulge myself in fashion or coffee. Furthermore my interests range from homesteading to swimming.
 
@@ -8,6 +8,7 @@ Hello, I'm Bernhard, another geek living in the Swiss Valais. As a fan of Tai Ch
 If you’d like to stay in touch, say hello through any of the social links on [linktr.ee](https://linktr.ee/2bla).
 
 𝓜𝓪𝔂 𝓽𝓱𝓮 𝓱𝓸𝓹𝓮 𝓯𝓸𝓻 𝓪 𝓶𝓮𝓮𝓽𝓲𝓷𝓰 𝓯𝓵𝓸𝔀𝓮𝓻 𝓲𝓷 𝓶𝓪𝓷𝔂 𝓶𝓸𝓻𝓮.
+
 ## Domain List
 Are you interested what domains I run? Here the actual top-zones. Is a specific one attracting your interest?
 
