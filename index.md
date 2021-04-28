@@ -15,7 +15,6 @@ Are you interested what domains I run? Here the actual top-zones. Is a specific 
 ### [alter.gp](http://google.com/search?q=site%3Aalter.gp)
 1. [alter.gp](http://alter.gp)
 2. [p.alter.gp](http://p.alter.gp)
-3. [www.alter.gp](http://www.alter.gp)
 
 These domains are derived from the Latin declination:
 1. [ego.alter.gp](http://ego.alter.gp)
@@ -32,8 +31,9 @@ All these number plates and cars I like!
 - [ch-vs-144.alter.gp](http://ch-vs-144.alter.gp)
 
 ### [bhere.co.za](http://google.com/search?q=site%3Abhere.co.za)
-1. [bhere.co.za](http://bhere.co.za)
-2. [ishidi.bhere.co.za](http://ishidi.bhere.co.za)
+1. [bern.bhere.co.za](http://bern.bhere.co.za)
+2. [egoli.bhere.co.za](http://egoli.bhere.co.za)
+3. [ishidi.bhere.co.za](http://ishidi.bhere.co.za)
 
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 1. [deixis.to](http://deixis.to)
