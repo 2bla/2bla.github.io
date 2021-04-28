@@ -39,9 +39,10 @@ All these number plates and cars I like!
 1. [deixis.to](http://deixis.to)
 2. [hellyeah.deixis.to](http://hellyeah.deixis.to)
 3. [ict.deixis.to](http://ict.deixis.to)
-4. [taesch.deixis.to](http://taesch.deixis.to)
-5. [www.deixis.to](http://www.deixis.to)
-6. [x.deixis.to](http://x.deixis.to)
+4. [pragma.deixis.to](http://pragma.deixis.to)
+5. [taesch.deixis.to](http://taesch.deixis.to)
+6. [www.deixis.to](http://www.deixis.to)
+7. [x.deixis.to](http://x.deixis.to)
 
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
 1. [hooman.to](http://hooman.to)
