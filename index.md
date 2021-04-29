@@ -16,12 +16,6 @@ Are you interested what domains I run? Here the actual top-zones. Is a specific 
 1. [alter.gp](http://alter.gp)
 2. [p.alter.gp](http://p.alter.gp)
 
-### [arribar.ch](http://google.com/search?q=site%3Aarribar.ch)
-1. [arribar.ch](http://arribar.ch)
-2. [cargo.arribar.ch](http://cargo.arribar.ch)
-3. [dlt.arribar.ch](http://dlt.arribar.ch)
-4. [taesch.arribar.ch](http://taesch.arribar.ch)
-
 These domains are derived from the Latin declination:
 1. [ego.alter.gp](http://ego.alter.gp)
 2. [tu.alter.gp](http://tu.alter.gp)
@@ -35,6 +29,12 @@ These domains are derived from the Latin declination:
 
 All these number plates and cars I like!
 - [ch-vs-144.alter.gp](http://ch-vs-144.alter.gp)
+
+### [arribar.ch](http://google.com/search?q=site%3Aarribar.ch)
+1. [arribar.ch](http://arribar.ch)
+2. [cargo.arribar.ch](http://cargo.arribar.ch)
+3. [dlt.arribar.ch](http://dlt.arribar.ch)
+4. [taesch.arribar.ch](http://taesch.arribar.ch)
 
 ### [bhere.co.za](http://google.com/search?q=site%3Abhere.co.za)
 1. [bern.bhere.co.za](http://bern.bhere.co.za)
