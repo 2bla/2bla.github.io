@@ -13,8 +13,7 @@ If you’d like to stay in touch, say hello through any of the social links on [
 Are you interested what domains I run? Here the actual top-zones. Is a specific one attracting your interest?
 
 ### [alter.gp](http://google.com/search?q=site%3Aalter.gp)
-1. [alter.gp](http://alter.gp)
-2. [p.alter.gp](http://p.alter.gp)
+My personalised car registration in Gauteng, South Africa is [alter.gp](http://alter.gp). Locate [locate](http://locate.alter.gp) to check if it is in his preffered [parking](http://p.alter.gp).
 
 These domains are derived from the Latin declination:
 1. [ego.alter.gp](http://ego.alter.gp)
