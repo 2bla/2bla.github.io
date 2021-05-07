@@ -13,7 +13,7 @@ If you’d like to stay in touch, say hello through any of the social links on [
 Are you interested what domains I run? Here the actual top-zones. Is a specific one attracting your interest?
 
 ### [alter.gp](http://google.com/search?q=site%3Aalter.gp)
-My personalised car registration in Gauteng, South Africa is [alter.gp](http://alter.gp). [Locate](http://locate.alter.gp) it to check if it's in his preffered [parking](http://p.alter.gp).
+My personalised car registration in Gauteng, South Africa is [alter.gp](http://alter.gp). [Locate](http://locate.alter.gp) it to check if it's in his preferred [parking](http://p.alter.gp).
 
 These domains are derived from the Latin declination:
 1. [ego.alter.gp](http://ego.alter.gp)
@@ -30,10 +30,13 @@ All these number plates and cars I like!
 - [ch-vs-144.alter.gp](http://ch-vs-144.alter.gp)
 
 ### [arribar.ch](http://google.com/search?q=site%3Aarribar.ch)
-1. [arribar.ch](http://arribar.ch)
-2. [cargo.arribar.ch](http://cargo.arribar.ch)
-3. [dlt.arribar.ch](http://dlt.arribar.ch)
-4. [taesch.arribar.ch](http://taesch.arribar.ch)
+If I would run a bar I want it to call [arribar.ch](http://arribar.ch). Those are some stimuli related:
+
+1. [cargo.arribar.ch](http://cargo.arribar.ch)
+2. [dlt.arribar.ch](http://dlt.arribar.ch)
+3. [taesch.arribar.ch](http://taesch.arribar.ch)
+
+Isolate one you like 8-)
 
 ### [bhere.co.za](http://google.com/search?q=site%3Abhere.co.za)
 1. [bern.bhere.co.za](http://bern.bhere.co.za)
