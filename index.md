@@ -39,9 +39,10 @@ If I would run a bar I want it to call [arribar.ch](http://arribar.ch). Those ar
 Isolate one you like 8-)
 
 ### [bhere.co.za](http://google.com/search?q=site%3Abhere.co.za)
-1. [bern.bhere.co.za](http://bern.bhere.co.za)
-2. [egoli.bhere.co.za](http://egoli.bhere.co.za)
-3. [ishidi.bhere.co.za](http://ishidi.bhere.co.za)
+With [ishidi.bhere.co.za](http://ishidi.bhere.co.za) I bundle my energy work in African and Chinese blend.
+The list of zoos with Ursidæ is a politicum.
+- [bern.bhere.co.za](http://bern.bhere.co.za)
+- [egoli.bhere.co.za](http://egoli.bhere.co.za)
 
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 1. [deixis.to](http://deixis.to)
