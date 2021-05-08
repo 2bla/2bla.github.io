@@ -45,13 +45,14 @@ The list of zoos with Ursidæ is a politicum.
 - [egoli.bhere.co.za](http://egoli.bhere.co.za)
 
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
-1. [deixis.to](http://deixis.to)
-2. [hellyeah.deixis.to](http://hellyeah.deixis.to)
-3. [ict.deixis.to](http://ict.deixis.to)
-4. [pragma.deixis.to](http://pragma.deixis.to)
-5. [taesch.deixis.to](http://taesch.deixis.to)
-6. [www.deixis.to](http://www.deixis.to)
-7. [x.deixis.to](http://x.deixis.to)
+My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity became more & more important in my business [ict.deixis.to](http://ict.deixis.to). The idea to call by this name was developped on a rainy day watching [deixis.to](http://deixis.to). A random list of anaphores is:
+- [dloza.deixis.to](http://dloza.deixis.to)
+- [hellyeah.deixis.to](http://hellyeah.deixis.to)
+- [pragma.deixis.to](http://pragma.deixis.to)
+- [taesch.deixis.to](http://taesch.deixis.to)
+- [x.deixis.to](http://x.deixis.to)
+
+Fluorecent!
 
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
 1. [hooman.to](http://hooman.to)
