@@ -58,8 +58,12 @@ Fluorecent!
 [candy.hooman.to](http://candy.hooman.to) is my personal client for [hooman.to](http://hooman.to). [www.hooman.to](http://www.hooman.to) is a gift. Way to go!
 
 ### [ishidi.co.za](http://google.com/search?q=site%3Aishidi.co.za)
-1. [ishidi.co.za](http://ishidi.co.za)
-2. [bhere.ishidi.co.za](http://bhere.ishidi.co.za)
+How the Zulu would call a forest worker (Lauber):
+
+- [www](http://www.ishidi.co.za).[ishidi.co.za](http://ishidi.co.za)
+- [bhere.ishidi.co.za](http://bhere.ishidi.co.za)
+
+#wearYourMask rules in COVID-19 times.
 
 ### [jlllj.pt](http://google.com/search?q=site%3Ajlllj.pt)
 1. [jlllj.pt](http://jlllj.pt)
@@ -94,7 +98,8 @@ I added some instructions to my domain:
 - [serenade.bernhard.lauber.to](http://serenade.bernhard.lauber.to)
 
 ### [nomusa.co.za](http://google.com/search?q=site%3Anomusa.co.za)
-1. [nomusa.co.za](http://nomusa.co.za)
+Face covering [www](http://www.nomusa.co.za).[nomusa.co.za](http://nomusa.co.za) for hooman. Corona time:
+
 
 ### [particular.to](http://google.com/search?q=site%3Aparticular.to)
 1. [in.particular.to](http://in.particular.to)
