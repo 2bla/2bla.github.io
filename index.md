@@ -55,9 +55,7 @@ My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity becam
 Fluorecent!
 
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
-1. [hooman.to](http://hooman.to)
-2. [candy.hooman.to](http://candy.hooman.to)
-3. [www.hooman.to](http://www.hooman.to)
+[candy.hooman.to](http://candy.hooman.to) is my personal client for [hooman.to](http://hooman.to). [www.hooman.to](http://www.hooman.to) is a gift. Way to go!
 
 ### [ishidi.co.za](http://google.com/search?q=site%3Aishidi.co.za)
 1. [ishidi.co.za](http://ishidi.co.za)
