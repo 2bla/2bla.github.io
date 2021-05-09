@@ -100,6 +100,11 @@ I added some instructions to my domain:
 ### [nomusa.co.za](http://google.com/search?q=site%3Anomusa.co.za)
 Face covering [www](http://www.nomusa.co.za).[nomusa.co.za](http://nomusa.co.za) for hooman. Corona time:
 
+- [impela nomusa](http://impela.nomusa.co.za)
+- [mhlophe nomusa](http://mhlophe.nomusa.co.za)
+- [ukhwini nomusa](http://ukhwini.nomusa.co.za)
+
+[Poker](http://ipoker.nomusa.co.za) @ it's best.
 
 ### [particular.to](http://google.com/search?q=site%3Aparticular.to)
 1. [in.particular.to](http://in.particular.to)
