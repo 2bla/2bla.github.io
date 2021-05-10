@@ -66,14 +66,16 @@ How the Zulu would call a forest worker (Lauber):
 #wearYourMask rules in COVID-19 times.
 
 ### [jlllj.pt](http://google.com/search?q=site%3Ajlllj.pt)
-1. [jlllj.pt](http://jlllj.pt)
-2. [arribar.jlllj.pt](http://arribar.jlllj.pt)
-3. [dax.jlllj.pt](http://dax.jlllj.pt)
-4. [lusiland.jlllj.pt](http://lusiland.jlllj.pt)
-5. [pao.jlllj.pt](http://pao.jlllj.pt)
-6. [soletrar.jlllj.pt](http://soletrar.jlllj.pt)
-7. [sport.jlllj.pt](http://sport.jlllj.pt)
-8. [www.jlllj.pt](http://www.jlllj.pt)
+With [www](http://www.jlllj.pt).[jlllj.pt](http://jlllj.pt) I support the Portuguese Language & Culture club:
+
+- [arribar.jlllj.pt](http://arribar.jlllj.pt)
+- [dax.jlllj.pt](http://dax.jlllj.pt)
+- [lusiland.jlllj.pt](http://lusiland.jlllj.pt)
+- [pao.jlllj.pt](http://pao.jlllj.pt)
+- [soletrar.jlllj.pt](http://soletrar.jlllj.pt)
+- [sport.jlllj.pt](http://sport.jlllj.pt)
+
+The funny spelling is from (丿川丿). To understand it's sign language imagine a train corridor in the middle of compartments left and right.
 
 ### [lauber.to](http://google.com/search?q=site%3Alauber.to)
 - [lauber.to](http://lauber.to)
