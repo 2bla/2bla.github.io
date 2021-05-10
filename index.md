@@ -67,15 +67,19 @@ How the Zulu would call a forest worker (Lauber):
 
 ### [jlllj.pt](http://google.com/search?q=site%3Ajlllj.pt)
 With [www](http://www.jlllj.pt).[jlllj.pt](http://jlllj.pt) I support the Portuguese Language & Culture club:
-
+- [alma.jlllj.pt](http://alma.jlllj.pt)
 - [arribar.jlllj.pt](http://arribar.jlllj.pt)
+- [boliche.jlllj.pt](http://boliche.jlllj.pt)
 - [dax.jlllj.pt](http://dax.jlllj.pt)
+- [francesinha.jlllj.pt](http://francesinha.jlllj.pt)
 - [lusiland.jlllj.pt](http://lusiland.jlllj.pt)
 - [pao.jlllj.pt](http://pao.jlllj.pt)
 - [soletrar.jlllj.pt](http://soletrar.jlllj.pt)
 - [sport.jlllj.pt](http://sport.jlllj.pt)
 
-The funny spelling is from (丿川丿). To understand it's sign language imagine a train corridor in the middle of compartments left and right.
+The funny spelling is from 【丿川丿】. To understand it's sign language imagine a train corridor in the middle of compartments left and right.
+- [priority.jlllj.pt](http://priority.jlllj.pt)
+- [ancora.jlllj.pt](http://ancora.jlllj.pt)
 
 ### [lauber.to](http://google.com/search?q=site%3Alauber.to)
 - [lauber.to](http://lauber.to)
