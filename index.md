@@ -119,16 +119,32 @@ Face covering [www](http://www.nomusa.co.za).[nomusa.co.za](http://nomusa.co.za)
 ### [particular.to](http://google.com/search?q=site%3Aparticular.to)
 1. [in.particular.to](http://in.particular.to)
 
-### [practize.ch](http://google.com/search?q=site%3Apractize.ch)
-1. [practize.ch](http://practize.ch)
+### practize.*
 
-### [practize.co.za](http://google.com/search?q=site%3Apractize.co.za)
-1. [practize.co.za](http://practize.co.za)
+#### [practize.ch](http://google.com/search?q=site%3Apractize.ch)
+[www](http://practize.ch).[practize.ch](http://practize.ch) does redirect to the company main page. Part of our masterdata is
+- [17.practize.ch](http://17.practize.ch)
+- [dex.practize.ch](http://dex.practize.ch)
+- [he.practize.ch](http://he.practize.ch)
+- [lusi.practize.ch](http://lusi.practize.ch)
+- [purana.practize.ch](http://purana.practize.ch)
+- [sino.practize.ch](http://sino.practize.ch)
+- [rune.practize.ch](http://rune.practize.ch)
+- [sac.practize.ch](http://sac.practize.ch)
+- [spqr.practize.ch](http://spqr.practize.ch)
 
-### [practize.me](http://google.com/search?q=site%3Apractize.me)
+#### [practize.co.za](http://google.com/search?q=site%3Apractize.co.za)
+I love the right [click sound](http://www.practize.co.za). And [drums](http://gqom.practize.co.za).
+[practize.co.za](http://practize.co.za)
+
+#### [practize.jl.cn](http://google.com/search?q=site%3Apractize.jl.cn)
+- [www](http://www.practize.jl.cn).[practize.jl.cn](http://practize.jl.cn)
+- [lucky.practize.jl.cn](http://lucky.practize.jl.cn)
+
+#### [practize.me](http://google.com/search?q=site%3Apractize.me)
 1. [practize.me](http://practize.me)
 
-### [practize.pro](http://google.com/search?q=site%3Apractize.pro)
+#### [practize.pro](http://google.com/search?q=site%3Apractize.pro)
 1. [practize.pro](http://practize.pro)
 
 ### [prypto.io](http://google.com/search?q=site%3Aprypto.io)
