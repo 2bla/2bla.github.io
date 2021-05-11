@@ -142,7 +142,21 @@ I love the right [click sound](http://www.practize.co.za). And [drums](http://gq
 - [lucky.practize.jl.cn](http://lucky.practize.jl.cn)
 
 #### [practize.me](http://google.com/search?q=site%3Apractize.me)
-1. [practize.me](http://practize.me)
+The project portfolio contains:
+
+1. [flower.practize.me](http://flower.practize.me)
+2. [sos.practize.me](http://sos.practize.me)
+3. [clock.practize.me](http://clock.practize.me)
+4. [portiscule.practize.me](http://portiscule.practize.me)
+
+- [code.practize.me](http://code.practize.me)
+- [simi.practize.me](http://simi.practize.me)
+- [bell.practize.me](http://bell.practize.me)
+- [bci.practize.me](http://bci.practize.me)
+- [melete.practize.me](http://melete.practize.me)
+- [gov.practize.me](http://gov.practize.me)
+
+look promising. [www](http://www.practize.me).[practize.me](http://practize.me)
 
 #### [practize.pro](http://google.com/search?q=site%3Apractize.pro)
 1. [practize.pro](http://practize.pro)
