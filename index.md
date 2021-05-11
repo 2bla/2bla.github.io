@@ -44,6 +44,10 @@ The list of zoos with Ursidæ is a politicum.
 - [bern.bhere.co.za](http://bern.bhere.co.za)
 - [egoli.bhere.co.za](http://egoli.bhere.co.za)
 
+Notable bearings are:
+- [banzi.bhere.co.za](http://banzi.bhere.co.za)
+- [dloza.bhere.co.za](http://dloza.bhere.co.za)
+
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity became more & more important in my business [ict.deixis.to](http://ict.deixis.to). The idea to call by this name was developped on a rainy day watching [deixis.to](http://deixis.to). A random list of anaphores is:
 - [dloza.deixis.to](http://dloza.deixis.to)
