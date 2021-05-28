@@ -49,6 +49,9 @@ Notable bearings are:
 - [banzi.bhere.co.za](http://banzi.bhere.co.za)
 - [dloza.bhere.co.za](http://dloza.bhere.co.za)
 
+### [celiac.to](http://google.com/search?q=site%3Aceliac.to)
+Your future with a solar plexus interface could start with [www](http://www.celiac.to).[celiac.to](http://celiac.to).
+
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity became more & more important in my business [ict.deixis.to](http://ict.deixis.to). The idea to call by this name was developped on a rainy day watching [deixis.to](http://deixis.to). A random list of anaphores is:
 - [dloza.deixis.to](http://dloza.deixis.to)
