@@ -65,6 +65,10 @@ Fluorecent!
 
 ### [he9eau.co.za](http://google.com/search?q=site%3Ahe9eau.co.za)
 Amateur radio, also known as ham radio, was the natural next step after a CB and military communication career. Actually I'm Short Wave listener with [www](http://www.he9eau.co.za).[he9eau.co.za](http://he9eau.co.za).
+- [club.he9eau.co.za](http://club.he9eau.co.za)
+- [km.he9eau.co.za](http://km.he9eau.co.za)
+- [qrz.he9eau.co.za](http://qrz.he9eau.co.za)
+- [union.he9eau.co.za](http://union.he9eau.co.za)
 
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
 [candy.hooman.to](http://candy.hooman.to) is my personal client for [hooman.to](http://hooman.to). [www.hooman.to](http://www.hooman.to) is a gift. Way to go!
