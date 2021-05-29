@@ -63,6 +63,9 @@ My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity becam
 
 Fluorecent!
 
+### [he9eau.co.za](http://google.com/search?q=site%3Ahe9eau.co.za)
+Amateur radio, also known as ham radio, was the natural next step after a CB and military communication career. Actually I'm Short Wave listener with [www](http://www.he9eau.co.za).[he9eau.co.za](http://he9eau.co.za).
+
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
 [candy.hooman.to](http://candy.hooman.to) is my personal client for [hooman.to](http://hooman.to). [www.hooman.to](http://www.hooman.to) is a gift. Way to go!
 
@@ -133,6 +136,7 @@ Face covering [www](http://www.nomusa.co.za).[nomusa.co.za](http://nomusa.co.za)
 - [dex.practize.ch](http://dex.practize.ch)
 - [he.practize.ch](http://he.practize.ch)
 - [lusi.practize.ch](http://lusi.practize.ch)
+- [ovo.practize.ch](http://ovo.practize.ch)
 - [purana.practize.ch](http://purana.practize.ch)
 - [sino.practize.ch](http://sino.practize.ch)
 - [rune.practize.ch](http://rune.practize.ch)
