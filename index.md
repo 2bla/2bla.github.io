@@ -50,7 +50,7 @@ Notable bearings are:
 - [dloza.bhere.co.za](http://dloza.bhere.co.za)
 
 ### [celiac.to](http://google.com/search?q=site%3Aceliac.to)
-Your future with a solar plexus interface could start with [www](http://www.celiac.to).[celiac.to](http://celiac.to).
+Your future with a solar plexus interface could start through [www](http://www.celiac.to).[celiac.to](http://celiac.to).
 
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity became more & more important in my business [ict.deixis.to](http://ict.deixis.to). The idea to call by this name was developped on a rainy day watching [deixis.to](http://deixis.to). A random list of anaphores is:
@@ -68,7 +68,10 @@ Amateur radio, also known as ham radio, was the natural next step after a CB and
 - [club.he9eau.co.za](http://club.he9eau.co.za)
 - [km.he9eau.co.za](http://km.he9eau.co.za)
 - [qrz.he9eau.co.za](http://qrz.he9eau.co.za)
+- [qsl.he9eau.co.za](http://qsl.he9eau.co.za)
 - [union.he9eau.co.za](http://union.he9eau.co.za)
+
+73
 
 ### [hooman.to](http://google.com/search?q=site%3Ahooman.to)
 [candy.hooman.to](http://candy.hooman.to) is my personal client for [hooman.to](http://hooman.to). [www.hooman.to](http://www.hooman.to) is a gift. Way to go!
