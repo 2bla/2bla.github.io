@@ -183,3 +183,8 @@ look promising. [www](http://www.practize.me).[practize.me](http://practize.me)
 
 ### [skeyi.co.za](http://google.com/search?q=site%3Askeyi.co.za)
 1. [skeyi.co.za](http://skeyi.co.za)
+
+### [wele.co.za](http://google.com/search?q=site%3Awele.co.za)
+This directory is for twins born on the same day:
+- [19720502.wele.co.za](http://19720502.wele.co.za)
+- [19830506.wele.co.za](http://19830506.wele.co.za)
