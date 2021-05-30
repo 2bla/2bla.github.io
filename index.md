@@ -69,6 +69,7 @@ Amateur radio, also known as ham radio, was the natural next step after a CB and
 - [km.he9eau.co.za](http://km.he9eau.co.za)
 - [qrz.he9eau.co.za](http://qrz.he9eau.co.za)
 - [qsl.he9eau.co.za](http://qsl.he9eau.co.za)
+- [qsy1612.he9eau.co.za](http://qsy1612.he9eau.co.za)
 - [union.he9eau.co.za](http://union.he9eau.co.za)
 
 73
@@ -104,6 +105,7 @@ The funny spelling is from 【丿川丿】. To understand it's sign language ima
 ### [lauber.to](http://google.com/search?q=site%3Alauber.to)
 - [lauber.to](http://lauber.to)
 - [www.lauber.to](http://www.lauber.to)
+- [daniel.lauber.to](http://daniel.lauber.to)
 - [florian.lauber.to](http://florian.lauber.to)
 - [magdalena.lauber.to](http://magdalena.lauber.to)
 - [michaelchristoph.lauber.to](http://michaelchristoph.lauber.to)
