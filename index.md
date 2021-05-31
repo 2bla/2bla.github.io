@@ -68,8 +68,9 @@ Amateur radio, also known as ham radio, was the natural next step after a CB and
 - [club.he9eau.co.za](http://club.he9eau.co.za)
 - [kw.he9eau.co.za](http://kw.he9eau.co.za)
 - [qrz.he9eau.co.za](http://qrz.he9eau.co.za)
+- [qsa.he9eau.co.za](http://qsa.he9eau.co.za)
 - [qsl.he9eau.co.za](http://qsl.he9eau.co.za)
-- [qso.he9eau.co.za](http://qso.he9eau.co.za)
+- [qso.he9eau.co.za](http://qso.he9eau.co.za))
 - [qsy1612.he9eau.co.za](http://qsy1612.he9eau.co.za)
 - [union.he9eau.co.za](http://union.he9eau.co.za)
 
