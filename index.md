@@ -47,6 +47,7 @@ The list of zoos with Ursidæ is a politicum.
 
 Notable bearings are:
 - [banzi.bhere.co.za](http://banzi.bhere.co.za)
+- [kusakhiwo.bhere.co.za](http://kusakhiwo.bhere.co.za)
 - [dloza.bhere.co.za](http://dloza.bhere.co.za)
 
 ### [celiac.to](http://google.com/search?q=site%3Aceliac.to)
