@@ -146,6 +146,7 @@ Face covering [www](http://www.nomusa.co.za).[nomusa.co.za](http://nomusa.co.za)
 #### [practize.ch](http://google.com/search?q=site%3Apractize.ch)
 [www](http://practize.ch).[practize.ch](http://practize.ch) does redirect to the company main page. Part of our masterdata [script.practize.ch](http://script.practize.ch) is
 - [17.practize.ch](http://17.practize.ch)
+- [3rdeye.practize.ch](http://3rdeye.practize.ch)
 - [dex.practize.ch](http://dex.practize.ch)
 - [he.practize.ch](http://he.practize.ch)
 - [lusi.practize.ch](http://lusi.practize.ch)
