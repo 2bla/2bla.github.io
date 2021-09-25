@@ -84,7 +84,7 @@ Amateur radio, also known as ham radio, was the natural next step after a CB and
 [candy.hooman.to](http://candy.hooman.to) is my personal client for [hooman.to](http://hooman.to). [www.hooman.to](http://www.hooman.to) is a gift. Way to go!
 
 ### [infoider.co.za](http://google.com/search?q=site%3Ainfoider.co.za)
-[www].(http://www.infoider.co.za)[infoider.co.za](http://infoider.co.za) is the "Information Provider" coinage. Still, Crypto!
+[www](http://www.infoider.co.za).[infoider.co.za](http://infoider.co.za) is the "Information Provider" coinage. Still, Crypto!
 
 ### [ishidi.co.za](http://google.com/search?q=site%3Aishidi.co.za)
 How the Zulu would call a forest worker (Lauber):
