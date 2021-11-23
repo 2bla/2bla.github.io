@@ -59,6 +59,9 @@ Notable bearings are:
 ### [celiac.to](http://google.com/search?q=site%3Aceliac.to)
 Your future with a solar plexus interface could start through [www](http://www.celiac.to).[celiac.to](http://celiac.to).
 
+### [brnic.by](http://google.com/search?q=site%3Abrnic.by)
+The Croatian name Brnić could come from [brnět](https://en.m.wiktionary.org/wiki/brn%C4%9Bt) ☑
+
 ### [deixis.to](http://google.com/search?q=site%3Adeixis.to)
 My «UV filter» is [www.deixis.to](http://www.deixis.to), 'coz relativity became more & more important in my business [ict.deixis.to](http://ict.deixis.to). The idea to call by this name was developped on a rainy day watching [deixis.to](http://deixis.to). A random list of anaphores is:
 - [dloza.deixis.to](http://dloza.deixis.to)
