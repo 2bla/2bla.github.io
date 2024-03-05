@@ -1,4 +1,4 @@
-![Image](https://assets.about.me/background/users/t/w/o/twobla_1585333349_767.jpg)
+![Image](https://assets.about.me/background/users/t/w/o/twobla_1709602903_103.jpg)
 # 𝓑𝓮𝓻𝓷𝓱𝓪𝓻𝓭 𝓛𝓪𝓊𝒷𝓮𝓻 <br /> (唠白仁)
 ## 𝓯𝓮𝓮𝓵 🍎 𝓽𝓱𝓲𝓷𝓴 🍏 𝓹𝓻𝓪𝓬𝓽𝓲𝓬𝓮 🌱𝓻𝓮𝓯𝓵𝓮𝓬𝓽 ⌱
 Hello, I'm Bernhard, another geek living in the Swiss Valais. As a fan of Tai Chi, I indulge myself in fashion or coffee. Furthermore my interests range from homesteading to swimming.
